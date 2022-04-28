@@ -1,0 +1,27 @@
+<style>
+body {
+    
+    background-image: url('../img/background.jpg') no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    color: red;
+    }
+
+table, th, td {
+    border: 1px solid blue;
+    border-collapse: collapse;
+    text-align: left;
+    
+}
+
+th, td {
+    padding: 15px;
+}
+
+#tb1 {
+    background-color: rosybrown;
+}
+
+</style>
